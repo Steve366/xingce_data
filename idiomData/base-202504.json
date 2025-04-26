@@ -1,0 +1,70 @@
+  {
+    idiom: "一举两得",
+    pinyin: "yī jǔ liǎng dé",
+    explanation: "一次行动得到两种好处。",
+    example: "这样的方法既能提高效率，又能保证质量，真是一举两得。",
+    frequency: 5
+  },
+  {
+    idiom: "画龙点睛",
+    pinyin: "huà lóng diǎn jīng",
+    explanation: "比喻在关键处用几句话点明要点，使内容更加鲜明生动。",
+    example: "他的结论非常精彩，为整篇论文画龙点睛。",
+    frequency: 8
+  },
+  {
+    idiom: "走马观花",
+    pinyin: "zǒu mǎ guān huā",
+    explanation: "骑在奔跑的马上看花。比喻观察事物匆忙,不细致,只看到表面现象。",
+    example: "三天游览这么大的城市，只能走马观花了。",
+    frequency: 6
+  },
+  {
+    idiom: "囫囵吞枣",
+    pinyin: "hú lún tūn zǎo",
+    explanation: "整个地吞下枣子。比喻读书等不加分析地笼统接受，不求甚解。",
+    example: "这本书讲的很深奥，可不能囫囵吞枣，得好好理解。",
+    frequency: 3
+  },
+  {
+    idiom: "望梅止渴",
+    pinyin: "wàng méi zhǐ kě",
+    explanation: "望着梅子解除口渴。比喻用空想来安慰自己。",
+    example: "光靠想象美好的未来是解决不了实际问题的，这不过是望梅止渴罢了。",
+    frequency: 7
+  },
+  {
+    idiom: "眉飞色舞",
+    pinyin: "méi fēi sè wǔ",
+    explanation: "眉毛上扬，神色飞动。形容人高兴的样子。",
+    example: "孩子们听说要去春游，个个眉飞色舞，兴奋不已。",
+    frequency: 9
+  },
+  {
+    idiom: "无懈可击",
+    pinyin: "wú xiè kě jī",
+    explanation: "原指防守严密，没有可以攻击的缝隙。现也比喻事物严密完善，找不出缺点。",
+    example: "这个计划考虑得很周密，真是无懈可击。",
+    frequency: 6
+  },
+  {
+    idiom: "风声鹤唳",
+    pinyin: "fēng shēng hè lì",
+    explanation: "形容惊慌失措，或自相惊扰。",
+    example: "战败后，敌军闻风丧胆，风声鹤唳，草木皆兵。",
+    frequency: 4
+  },
+  {
+    idiom: "本末倒置",
+    pinyin: "běn mò dào zhì",
+    explanation: "本：根本；末：枝节；倒置：颠倒。把根本的和枝节的、主要的和次要的颠倒过来。",
+    example: "有些学生只专注于娱乐活动而忽略了学习，真是本末倒置。",
+    frequency: 7
+  },
+  {
+    idiom: "刻舟求剑",
+    pinyin: "kè zhōu qiú jiàn",
+    explanation: "比喻不懂事物发展变化的道理，拘泥固执，不知变通。",
+    example: "他仍然用老方法解决新问题，这种刻舟求剑的做法肯定行不通。",
+    frequency: 5
+  }
